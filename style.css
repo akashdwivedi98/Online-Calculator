@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding:0;
     line-height: 0.5;
-    background:linear-gradient(to left,#2c2038b2,#06bdf5);
+    background:linear-gradient(to left,#95DBE5FF,#078282FF);
     font-family: sans-serif;
 }
 
@@ -80,6 +80,7 @@ h2{
     margin-top: -1px;
     font-family: sans-serif;
     margin-left: 438px;
+
 }
 .operator{
     width: 55;
@@ -104,5 +105,5 @@ h2{
 
 
 .operator:hover{
-    background: #00d9ff;
+    background: #339E66FF;
 }
