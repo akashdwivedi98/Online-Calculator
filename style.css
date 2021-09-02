@@ -41,8 +41,6 @@ font-size: 20;
     border:2px solid white(5, 218, 255, 0.726);
     color: black;
 
-
-
 }
 .button{
     width: 55;
@@ -102,7 +100,6 @@ h2{
     
     
 }
-
 
 .operator:hover{
     background: #339E66FF;
